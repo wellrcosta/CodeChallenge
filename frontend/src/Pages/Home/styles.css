@@ -1,0 +1,35 @@
+.HomePage {
+	width: 100%;
+	max-width: 1120px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Header {
+	display: flex;
+	width: 700px !important;
+	margin: auto !important;
+}
+
+.Header h1 {
+	margin: auto !important;
+	text-align: center !important;
+}
+
+.Form {
+	margin: auto !important;
+	margin-top: 60px !important;
+	border-radius: 5px !important;
+	padding: 20px !important;
+	background-color: white;
+}
+
+.sizedContainer {
+	width: 514px !important;
+	margin-bottom: 30px !important;
+}
+
+.MuiButton-containedPrimary {
+	background-color: orange !important;
+}
